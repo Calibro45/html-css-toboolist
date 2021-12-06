@@ -72,5 +72,24 @@ nav,main{
 
 .container2{
     margin-top: 5px;
+    padding: 50px;
+    border-radius: 0 0 10px 10px;
+
 }
 
+.task-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p{
+    margin-top: 10px;
+}
+
+.green{
+    border: 1px solid #64C0A9;
+    border-radius: 50%;
+    color: #64C0A9;
+    padding: 5px;
+    margin-right: 10px;
+}
