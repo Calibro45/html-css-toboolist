@@ -10,6 +10,7 @@
 
 body{
     background-color: #F6F8F9;
+    width: 100%;
 }
 
 /* intestazione logo */
@@ -33,3 +34,27 @@ body{
 .logotxt h1{
     font-size: 60px;
 }
+
+/* Navigazione Bottoni */
+
+.container{
+    width: 50%;
+    height: 70px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px 10px 0 0;
+}
+
+.botblu, .botbianco{
+    border-radius: 5px;
+}
+
+.botblu{
+    background-color: #47ADF1;
+    border: 1px solid #47ADF1;
+}
+
+.botbianco{
+    border: 1px solid grey;
+}
+
