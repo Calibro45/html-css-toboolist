@@ -39,7 +39,7 @@ body{
 
 .container{
     width: 50%;
-    height: 70px;
+    height: 60px;
     margin: auto;
     margin-top: 50px;
     border-radius: 10px 10px 0 0;
@@ -47,14 +47,21 @@ body{
 
 .botblu, .botbianco{
     border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 20px;
 }
 
 .botblu{
     background-color: #47ADF1;
     border: 1px solid #47ADF1;
+    color: #ffff;
+    margin-left: 50px;
 }
 
 .botbianco{
-    border: 1px solid grey;
+    border: 1px solid #DFE2E5;
+    color: #DFE2E5;
 }
 
